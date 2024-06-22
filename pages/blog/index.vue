@@ -1,7 +1,7 @@
 <template>
-    <NuxtLink to="/">
-        <h2>Back to Home</h2>
-    </NuxtLink>
+    <div class="my-2 py-2">
+        <NuxtLink to="/">Home</NuxtLink>
+    </div>
     <ContentList path="/blog">
         <template #default="{ list }">
             <div v-for="article in list" :key="article._path" class="flex items-center gap-2 py-2">
