@@ -1,5 +1,8 @@
 <template>
 	<div class="container mx-auto px-4 py-4 prose">
+		<NuxtLink to="/blog">
+			<h2>Back to Blog posts</h2>
+		</NuxtLink>
 		<ContentDoc v-slot="{ doc }">
 			<h1>{{ doc.title }}</h1>
 			<div>
