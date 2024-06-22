@@ -1,0 +1,1 @@
+import{_ as e}from"./BhtzQzOd.js";import{s,h as n,k as c,w as _,i as o,g as a}from"./BB5JShN9.js";const r={},i={class:"container mx-auto my-4 prose"},l=o("h1",null,"BEXDEEP - Old Blog posts",-1),d=o("h2",null,"View Blog posts",-1);function m(p,u){const t=e;return a(),n("div",i,[l,c(t,{to:"/blog"},{default:_(()=>[d]),_:1})])}const x=s(r,[["render",m]]);export{x as default};
