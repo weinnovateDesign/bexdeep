@@ -1,4 +1,4 @@
-# [bexdeep]{class="" style=""}'s blog posts
+# bexdeep's blog posts
 
 I started blogging in 2008. I shared my naive thoughts on design, technology and society online.
 

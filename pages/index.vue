@@ -1,5 +1,3 @@
 <template>
-	<div class="container mx-auto my-4 prose">
-		<ContentDoc path="/" />
-	</div>
+	<ContentDoc path="/" />
 </template>
