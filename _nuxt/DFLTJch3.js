@@ -1,1 +1,0 @@
-import{s,h as t,H as o,g as r}from"./Bl_p3nE7.js";const a={},c={class:"container mx-auto px-4 py-4 prose"};function n(e,_){return r(),t("div",c,[o(e.$slots,"default")])}const d=s(a,[["render",n]]);export{d as default};
