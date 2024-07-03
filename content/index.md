@@ -1,8 +1,11 @@
 # bexdeep's blog
 
-![Grand Budapest Hotel created in Sketch app](the-grandbudapest-hotel.png)
-
-_The Grand Budapest Hotel created using Sketch app in 2016._
+::photo-card
+---
+caption: The Grand Budapest Hotel created using Sketch app in 2016.
+href: the-grandbudapest-hotel.png
+---
+::
 
 I started blogging in 2008. I shared my naive thoughts on design, technology, arts and culture.
 
