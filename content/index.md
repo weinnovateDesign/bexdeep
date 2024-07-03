@@ -2,7 +2,7 @@
 
 ![Grand Budapest Hotel created in Sketch app](the-grandbudapest-hotel.png)
 
-_The Grand Budapest Hotel created in Sketch app in 2016_
+_The Grand Budapest Hotel created using Sketch app in 2016._
 
 I started blogging in 2008. I shared my naive thoughts on design, technology, arts and culture.
 
