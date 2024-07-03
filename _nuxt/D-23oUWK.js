@@ -1,0 +1,1 @@
+import{g as a,h as r,i as e,t as n,F as c}from"./BkkKzlND.js";const o=["src","alt"],u={__name:"PhotoCard",props:{href:{type:String,required:!0},caption:{type:String,default:""}},setup(t){return(i,l)=>(a(),r(c,null,[e("img",{src:t.href,alt:t.caption},null,8,o),e("div",null,n(t.caption),1)],64))}};export{u as default};
