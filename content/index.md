@@ -1,6 +1,6 @@
 # bexdeep's blog
 
-![Grand Budapest Hotel created in Sketch app](/Grand%20Budapest%20Hotel%20created%20in%20Sketch%20app)
+![Grand Budapest Hotel created in Sketch app](the-grandbudapest-hotel.png)
 
 _The Grand Budapest Hotel created in Sketch app in 2016_
 
