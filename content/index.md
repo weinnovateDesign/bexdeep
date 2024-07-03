@@ -1,4 +1,4 @@
-# bexdeep
+# bexdeep's blog
 
 ![Grand Budapest Hotel created in Sketch app](/Grand%20Budapest%20Hotel%20created%20in%20Sketch%20app)
 
